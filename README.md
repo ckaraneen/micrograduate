@@ -1,8 +1,13 @@
-# micrograduate
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-One notebook to learn about neural networks, from backprop to GPT.
+# microgra∇uate
+
+![](./logo.png)
+
+A self-contained course to learn the basics of neural networks.
 
 ## Acknowledgements
 
-Based on [@karpathy](https://www.github.com/karpathy)'s [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html) course, with my detailed notes of his lectures & code all distilled into one repo.
-
+Many thanks to [Andrej Karpathy](https://github.com/karpathy):
+- [Neural Networks: Zero to Hero](https://github.com/karpathy/nn-zero-to-hero)
+- [Eureka Labs](https://eurekalabs.ai/)
