@@ -27,5 +27,6 @@ setuptools.setup(
         "graphviz",
         "micrograd",
         "torch",
+        "scikit-learn",
     ],
 )
