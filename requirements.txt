@@ -1,0 +1,8 @@
+ipympl
+ipywidgets
+numpy
+matplotlib
+graphviz
+torch
+scikit-learn
+micrograd
