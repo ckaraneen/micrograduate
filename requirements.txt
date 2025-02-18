@@ -1,8 +1,12 @@
+regex
+matplotlib
 ipympl
 ipywidgets
-numpy
-matplotlib
 graphviz
+tqdm
+tensorflow
 torch
+jax
 scikit-learn
+numpy
 micrograd
