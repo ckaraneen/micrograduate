@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://micrograduate-book.github.io">
-    <img src="./heading.png" alt="MicroGraduate Book">
+    <img src="./heading.png" onerror="this.src="micrograduate/heading.png" alt="microgra∇uate book">
   </a>
 </p>
 
