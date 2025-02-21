@@ -1,8 +1,8 @@
-<p align="center">
-  <a href="https://micrograduate-book.github.io">
-    <img src="./heading.png" onerror="this.src="micrograduate/heading.png" alt="microgra∇uate book">
-  </a>
-</p>
+<div align="center">
+
+[![](./heading.png)](https://micrograduate-book.github.io)
+
+</div>
 
 [![GitHub stars](https://img.shields.io/github/stars/ckarageorgkaneen/micrograduate?style=social)](https://github.com/ckarageorgkaneen/micrograduate)
 [![X-Tweet Badge](https://img.shields.io/twitter/url?url=https://x.com)]()
