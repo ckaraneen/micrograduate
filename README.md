@@ -25,13 +25,13 @@ Visit [**micrograduate-book.github.io**](https://micrograduate-book.github.io).
 
 | # | 📔 | 🔗 |
 |----------|----------|-------------|
-| 1 | **micrograd** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ckaraneen/micrograduate/blob/main/micrograd.ipynb) |
-| 2 | **makemore1** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ckaraneen/micrograduate/blob/main/makemore1.ipynb) |
-| 3 | **makemore2** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ckaraneen/micrograduate/blob/main/makemore2.ipynb) |
-| 4 | **makemore3** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ckaraneen/micrograduate/blob/main/makemore3.ipynb) |
-| 5 | **makemore4** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ckaraneen/micrograduate/blob/main/makemore4.ipynb) |
-| 6 | **makemore5** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ckaraneen/micrograduate/blob/main/makemore5.ipynb) |
-| 7 | **picoGPT** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ckaraneen/micrograduate/blob/main/picogpt.ipynb) |
+| 1 | [**micrograd**](https://micrograduate-book.github.io/micrograduate/micrograd.html) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ckaraneen/micrograduate/blob/main/micrograd.ipynb) |
+| 2 | [**makemore1**](https://micrograduate-book.github.io/micrograduate/makemore1.html) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ckaraneen/micrograduate/blob/main/makemore1.ipynb) |
+| 3 | [**makemore2**](https://micrograduate-book.github.io/micrograduate/makemore2.html) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ckaraneen/micrograduate/blob/main/makemore2.ipynb) |
+| 4 | [**makemore3**](https://micrograduate-book.github.io/micrograduate/makemore3.html) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ckaraneen/micrograduate/blob/main/makemore3.ipynb) |
+| 5 | [**makemore4**](https://micrograduate-book.github.io/micrograduate/makemore4.html) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ckaraneen/micrograduate/blob/main/makemore4.ipynb) |
+| 6 | [**makemore5**](https://micrograduate-book.github.io/micrograduate/makemore5.html) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ckaraneen/micrograduate/blob/main/makemore5.ipynb) |
+| 7 | [**picoGPT**](https://micrograduate-book.github.io/micrograduate/picogpt.html) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ckaraneen/micrograduate/blob/main/picogpt.ipynb) |
 
 ### 🏡 Locally
 
