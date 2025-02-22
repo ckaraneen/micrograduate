@@ -11,9 +11,11 @@
 
 [![](./logo.gif)](https://micrograduate-book.github.io)
 
+## 🤔 Description ℹ️ 
+
 A self-contained course to learn the basics of neural networks: from backprop to GPT! 
 
-## 📖 Read 🌻 
+## 📖 Read 🌻
 
 Visit [**micrograduate-book.github.io**](https://micrograduate-book.github.io).
 
