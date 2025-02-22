@@ -4,7 +4,7 @@
 
 </div>
 
-[![GitHub stars](https://img.shields.io/github/stars/ckarageorgkaneen/micrograduate?style=social)](https://github.com/ckarageorgkaneen/micrograduate)
+[![GitHub stars](https://img.shields.io/github/stars/ckarageorgkaneen/micrograduate?style=social)](https://github.com/ckarageorgkaneen/micrograduate)<sup>⭐</sup> 
 [![X-Tweet Badge](https://img.shields.io/twitter/url?url=https://x.com)]()
 [![Jupyter Book Badge](https://raw.githubusercontent.com/jupyter-book/jupyter-book/refs/heads/main/docs/images/badge.svg)]()
 [![MIT License Badge](https://img.shields.io/badge/License-MIT-success.svg)](https://opensource.org/licenses/MIT)
