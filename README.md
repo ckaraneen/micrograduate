@@ -4,9 +4,9 @@
 
 </div>
 
-[![GitHub stars](https://img.shields.io/github/stars/ckarageorgkaneen/micrograduate?style=social)](https://github.com/ckarageorgkaneen/micrograduate)<sup>⭐</sup> 
+[![GitHub stars](https://img.shields.io/github/stars/ckaraneen/micrograduate?style=social)](https://github.com/ckaraneen/micrograduate)<sup>⭐</sup>
 [![X-Tweet Badge](https://img.shields.io/twitter/url?url=https://x.com)]()
-[![Jupyter Book Badge](https://raw.githubusercontent.com/jupyter-book/jupyter-book/refs/heads/main/docs/images/badge.svg)]()
+[![Jupyter Book Badge](https://raw.githubusercontent.com/jupyter-book/jupyter-book/refs/heads/main/docs/images/badge.svg)](https://micrograduate-book.github.io)
 [![MIT License Badge](https://img.shields.io/badge/License-MIT-success.svg)](https://opensource.org/licenses/MIT)
 
 [![](./logo.gif)](https://micrograduate-book.github.io)
