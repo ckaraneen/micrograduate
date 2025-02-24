@@ -5,7 +5,7 @@
 </div>
 
 [![GitHub stars](https://img.shields.io/github/stars/ckaraneen/micrograduate?style=social)](https://github.com/ckaraneen/micrograduate)<sup>⭐</sup>
-[![X-Tweet Badge](https://img.shields.io/twitter/url?url=https://x.com)]()
+[![X-Tweet Badge](https://img.shields.io/twitter/url?url=https://x.com)](https://x.com/ckaraneen/status/1893676057330409483)
 [![Jupyter Book Badge](https://raw.githubusercontent.com/jupyter-book/jupyter-book/refs/heads/main/docs/images/badge.svg)](https://micrograduate-book.github.io)
 [![MIT License Badge](https://img.shields.io/badge/License-MIT-success.svg)](https://opensource.org/licenses/MIT)
 
